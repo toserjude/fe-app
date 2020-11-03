@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fe-app"
+    }
+  },
+  "defaultProject": "fe-app",
+  "cli": {
+    "analytics": false
+  }
 }
