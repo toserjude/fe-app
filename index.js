@@ -13,4 +13,4 @@ if (port == null || port == "") {
   port = 3000;
 }
 
-app.use(express.static('./dist/<name-on-package.json>'));
+app.use(express.static('./dist/fe-app'));
